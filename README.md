@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">⚡ I'm 3rd year Software Engineering Student<br>💎 Willing to mix motion-design experience with coding.<br>🔭 Interested in modern UI/UX<br>☑️ Currently focused on node, docker, aws and react techs.</h2>
+<h2 align="left">⚡ I'm Junior Software Engineering Student<br>💎 Willing to mix motion-design experience with coding.<br>🔭 Interested in modern UI/UX<br>☑️ Currently focused on node, docker, aws and react techs.</h2>
 
 ###
 
